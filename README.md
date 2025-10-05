@@ -1,1 +1,2 @@
-# COP4870Project
+# .NET Ecommerce platform #
+
