@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classwork", "Classwork\Classwork.csproj", "{110C7045-D0B7-4981-9E10-C9D75F3B445E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.eCommerce", "Library.eCommerce\Library.eCommerce.csproj", "{7C21E9AC-F89D-49F0-BE41-18CCA6C8B174}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maui.eCommerce", "Maui.eCommerce\Maui.eCommerce.csproj", "{F9C2BD96-3265-48CC-B859-B7F1ED243B0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Maui.eCommerce", "Maui.eCommerce", "{C45E14FD-383C-47B1-B3C8-BEE7695EDE1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{110C7045-D0B7-4981-9E10-C9D75F3B445E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110C7045-D0B7-4981-9E10-C9D75F3B445E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110C7045-D0B7-4981-9E10-C9D75F3B445E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110C7045-D0B7-4981-9E10-C9D75F3B445E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C21E9AC-F89D-49F0-BE41-18CCA6C8B174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C21E9AC-F89D-49F0-BE41-18CCA6C8B174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C21E9AC-F89D-49F0-BE41-18CCA6C8B174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C21E9AC-F89D-49F0-BE41-18CCA6C8B174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9C2BD96-3265-48CC-B859-B7F1ED243B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C2BD96-3265-48CC-B859-B7F1ED243B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C2BD96-3265-48CC-B859-B7F1ED243B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C2BD96-3265-48CC-B859-B7F1ED243B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F9C2BD96-3265-48CC-B859-B7F1ED243B0A} = {C45E14FD-383C-47B1-B3C8-BEE7695EDE1A}
+	EndGlobalSection
+EndGlobal
